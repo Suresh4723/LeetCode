@@ -14,10 +14,8 @@ class Solution {
             {
                 nums1[mlast]=nums2[nmid];
                 nmid--;
-
             }
             mlast--;
-
         }
     }
 }
